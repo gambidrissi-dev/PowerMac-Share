@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PowerMac</title>
+<style>
+  :root {
+    --bg: #0d0f12; --card: #16191d; --text: #f2f3f5;
+    --muted: #9aa1ab; --accent: #ff6b1a; --border: #262a30;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    display: flex; justify-content: center; padding: 6vh 1.5rem;
+  }
+  main { max-width: 640px; width: 100%; }
+  h1 { font-size: 2rem; margin: 0 0 0.25rem; }
+  .tagline { color: var(--muted); margin: 0 0 2.5rem; font-size: 1.05rem; }
+  .card {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 14px; padding: 2rem; margin-bottom: 1.5rem;
+  }
+  .version {
+    display: inline-block; font-size: 0.8rem; color: var(--muted);
+    border: 1px solid var(--border); border-radius: 999px;
+    padding: 0.2rem 0.7rem; margin-bottom: 1.2rem;
+  }
+  .download {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    background: var(--accent); color: #14161a; text-decoration: none;
+    font-weight: 700; padding: 0.85rem 1.5rem; border-radius: 10px;
+    transition: opacity 0.15s;
+  }
+  .download:hover { opacity: 0.88; }
+  .requirements { color: var(--muted); font-size: 0.85rem; margin-top: 1rem; }
+  .steps { color: var(--muted); font-size: 0.9rem; line-height: 1.7; }
+  .steps b { color: var(--text); }
+  ul.features { color: var(--muted); font-size: 0.92rem; line-height: 1.75; padding-left: 1.1rem; margin: 0; }
+  footer { color: var(--muted); font-size: 0.8rem; text-align: center; margin-top: 2rem; }
+  a.plain { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <h1>PowerMac</h1>
+  <p class="tagline">La suite de ton Mac, logée dans l'encoche : presse-papiers, étagère, agenda, messages, tes agents et tes crédits d'IA — et bientôt l'état de ta machine, tes bascules rapides et ta palette de raccourcis.</p>
+
+  <div class="card">
+    <span class="version" id="version">Version —</span><br>
+    <a class="download"
+       href="https://github.com/gambidrissi-dev/PowerMac-Share/releases/latest/download/PowerMac.zip">
+      ⬇ Télécharger pour macOS
+    </a>
+    <p class="requirements">macOS 14 ou plus récent · Apple Silicon &amp; Intel</p>
+  </div>
+
+  <div class="card">
+    <ul class="features">
+      <li><b>Un clic pour ouvrir</b> — survole l'encoche pour voir tes agents apparaître sur les côtés, clique pour ouvrir tout d'un coup : ligne d'état, onglets et page en cours. Elle ne vole le focus clavier que sur les pages qui en ont besoin (Capture, Réglages).</li>
+      <li><b>Raccourcis globaux</b> — capture (⌃⌥Espace), presse-papiers (⌃⌥V), liens (⌃⌥L), île afficher / masquer (⌃⌥N) et fenêtre (⌃⌥W) par défaut, réenregistrables dans les Réglages, sans demander la permission Accessibilité.</li>
+      <li><b>Épingler l'île</b> — un bouton la garde ouverte, souris ailleurs ou autre app au premier plan. ⌃⌥N l'affiche et la masque d'un appui.</li>
+      <li><b>Une vraie fenêtre</b> — les mêmes pages dans une fenêtre redimensionnable avec une barre latérale, qui reste tant que tu ne la fermes pas : pour écrire, planifier ou ranger sans que l'île se replie. Elle s'ouvre depuis le bouton de l'île, ⌃⌥W ou la barre de menus ; « Retour dans l'île » la remet dans l'encoche.</li>
+      <li><b>Étagère</b> — glisse des fichiers sur l'encoche (12 max), reglisse-les vers n'importe quelle app. Ce sont des références : rien n'est copié ni déplacé.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <ul class="features">
+      <li><b>Presse-papiers</b> — les 30 dernières copies de texte, un clic les remet dans le presse-papiers ; les entrées marquées par un gestionnaire de mots de passe et les clés d'API ne sont jamais enregistrées.</li>
+      <li><b>Dossiers suivis</b> — autant que tu veux, les 4 premiers en raccourci dans la ligne d'état, avec l'âge de chaque entrée.</li>
+      <li><b>Capture rapide</b> — une note markdown horodatée directement dans ton vault.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <ul class="features">
+      <li><b>Home</b> — l'accueil, en widgets qui sont à toi : Accueil, Agents, prochain rendez-vous, abonnement Claude, Notes, Liens, presse-papiers, étagère, ou un dossier suivi de ton choix. Le crayon en bas à droite permet d'en ajouter, d'en retirer, de les ranger (attrape la tuile n'importe où) et de les redimensionner en tirant un coin ou tout un bord, avec la taille affichée pendant le geste. L'île reste ouverte pendant que tu les arranges. Un clic sur un widget ouvre son onglet.</li>
+      <li><b>Fonctions à la carte</b> — Réglages › Fonctions : active seulement ce dont tu te sers, avec pour chacune ce qu'elle fait et ce qu'elle demande à macOS. Désactivée, une fonction disparaît de l'île, de la fenêtre et du menu et ne tourne plus en arrière-plan ; rien n'est supprimé. Préréglages Tout, Essentiel et Minimal.</li>
+      <li><b>Rubriques</b> — l'île se range en rubriques (Home, Capturer, Agenda, Agents…), les pages d'une rubrique se choisissent juste en dessous.</li>
+      <li><b>Depuis PowerNotch</b> — au premier lancement, PowerMac reprend tes réglages, ton historique, tes dossiers suivis et tes favoris. Quitte PowerNotch avant : deux îles ne tiennent pas dans la même encoche.</li>
+      <li><b>Liens</b> — ta réserve de favoris, à lancer depuis l'encoche (⌃⌥L). Colle une adresse, glisse un lien de ton navigateur sur l'île, ou garde d'un clic l'onglet ouvert (Safari, Chrome, Arc, Brave, Edge, Vivaldi). Des groupes, une recherche, « Tout ouvrir » pour une session complète, et le navigateur de ton choix. L'icône de chaque site vient du site lui-même, aucun service tiers.</li>
+      <li><b>Notes Apple</b> — un vrai éditeur : gras, italique, souligné (⌘B ⌘I ⌘U), les styles de Notes (Titre, Titre de section, Sous-titre, Corps), listes à puces et numérotées, un titre à part. La note part dans le dossier de ton choix avec sa mise en forme. Notes n'a pas de tailles libres, d'où les styles.</li>
+      <li><b>Agenda</b> — aujourd'hui et demain, et un formulaire d'événement complet : durée, journée entière, lieu, alerte, répétition, notes. Écris « Dentiste lundi 14h » ou « Réunion vendredi de 10h à 11h30 » : la date est comprise, un clic la met dans le formulaire.</li>
+      <li><b>Vault</b> — un onglet pour ton vault Obsidian, capture rapide en markdown.</li>
+      <li><b>Messages</b> — cherche un contact, écris, envoie. Apple Messages part pour de vrai (⌘↩) ; WhatsApp et Mail s'ouvrent préremplis, à toi de valider.</li>
+      <li><b>IA-Crédits</b> — ce qu'il te reste sur tes services d'IA, d'un coup d'œil : ton abonnement Claude (session et semaine, avec l'heure de remise à zéro), ton crédit OpenRouter et LM Studio en local. Toujours le restant, jamais le consommé. La clé OpenRouter reste dans ton Trousseau.</li>
+      <li><b>Agents</b> — si tu utilises <a class="plain" href="https://gambidrissi-dev.github.io/AGENTIQUE-Share/">Agentique</a>, une mascotte animée par agent (Claude, Codex…). Elles apparaissent autour de l'encoche quand l'un t'appelle — un <b>?</b> jaune et des sauts s'il attend ta réponse, un sourire quand il a fini — et restent discrètes le reste du temps (réglable). Quand un agent te pose une question, une pastille sous l'encoche l'affiche avec ses réponses (1, 2, 3, Entrée, Échap), sans rien ouvrir. Ouvre l'encoche pour voir leur écran ou leur écrire, lance un nouvel agent dans le dossier de ton choix, ou glisse un fichier sur l'un d'eux pour lui donner son chemin.</li>
+      <li><b>Partage sans effort</b> — partage un dossier Notes, une liste Rappels ou un calendrier une fois dans l'app Apple : tout ce que tu y envoies est partagé.</li>
+      <li><b>Toi qui décides</b> — rien n'est lu avant que tu ouvres la page concernée, et la première fois macOS te demande l'accès à Notes, Rappels, Calendrier, Contacts ou Messages.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <p class="steps">
+      <b>1.</b> Décompresse le zip, glisse <code>PowerMac.app</code> dans <code>Applications</code>.<br>
+      <b>2.</b> Au premier lancement, macOS affiche « développeur non identifié » — fais
+      <b>clic droit → Ouvrir</b>, puis confirme. C'est normal, l'app n'est pas distribuée via
+      l'App Store.<br>
+      <b>3.</b> Les mises à jour suivantes se font toutes seules.
+    </p>
+  </div>
+
+  <footer>
+    La lecture du quota Claude s'inspire de <a class="plain" href="https://github.com/vinzdg/codenotch">Codenotch</a> (licence MIT).<br>
+    Code source privé · binaires publiés via
+    <a class="plain" href="https://github.com/gambidrissi-dev/PowerMac-Share/releases">GitHub Releases</a>
+  </footer>
+</main>
+
+<script>
+  fetch("https://api.github.com/repos/gambidrissi-dev/PowerMac-Share/releases/latest")
+    .then(r => r.ok ? r.json() : null)
+    .then(d => {
+      if (d && d.tag_name) {
+        document.getElementById("version").textContent = "Version " + d.tag_name.replace(/^v/, "");
+      }
+    })
+    .catch(() => {});
+</script>
+</body>
+</html>
