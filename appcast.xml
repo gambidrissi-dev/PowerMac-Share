@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 1.7.0</title>
+      <description><![CDATA[
+<h3>Mac › Parure : Parure absorbé</h3>
+<p>- Moteur de Parure repris tel quel (Parure/ : FolderWatcher, IconApplier, IconLibrary, WatchStore, WallpaperStore, WallpaperApplier…) : dossiers habillés vide/plein en continu (FSEvents), règles par nom, fonds d'écran fixes, en rotation, clair/sombre ou par créneaux, favoris. - Données partagées avec Parure (Application Support/Parure) : dossiers, icônes, règles, originaux et fonds se retrouvent tels quels ; la bibliothèque d'icônes est reprise du domaine de Parure. - Inactif tant que l'app Parure tourne, et jamais hors de l'app installée (les tests affichent toutes les pages : ils ne doivent pas reposer tes icônes ni changer ton fond). Arrêt réel de la surveillance quand on coupe. - Page compacte en deux volets ; l'Atelier (dessin d'icônes) reste dans Parure.</p>
+      ]]></description>
+      <pubDate>Wed, 23 Sep 2026 22:51:00 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v1.7.0/PowerMac-1.7.0.zip"
+                 sparkle:edSignature="PL8EEVbFANTYCtZ3gTDV4KQ5QT0WTfzIt0uscFld+PHlBQ7I3o8lKmFhjbzP3bxYYeRh2DcuY34l+Y5idizcAA=="
+                 length="4945787"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.1</title>
       <description><![CDATA[
 <h3>Outils › Renommer : ArchiFlow absorbé</h3>
