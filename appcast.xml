@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>PowerMac Updates</title>
+    <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
+    <description>Mises à jour de PowerMac</description>
+    <item>
+      <title>Version 1.0.0</title>
+      <description><![CDATA[
+<h3>Rubrique Outils › Au Propre : la correction du texte dicté absorbée</h3>
+<p>- ⌥⇧R corrige la sélection (sinon le champ entier, 4 000 caractères au plus) avec le modèle de langue d'Apple sur l'appareil, et la remplace sur place ; le presse-papiers d'origine est rendu intact. - Modèle, copie (⌘C guetté au compteur du presse-papiers, ⌘A de repli) et collage (source privée, attente du relâchement des modificateurs) repris tels quels d'Au Propre. - Raccourci dans HotKeys : l'appui préchauffe le modèle, le relâchement corrige. HotKeys.Slot gagne « actif » : une fonction coupée ne prend plus sa combinaison à macOS (palette et Au Propre). - Consigne modifiable dans la page, reprise d'Au Propre si elle avait été changée. FoundationModels lié en weak : PowerMac démarre toujours sur macOS 14–15, la page dit pourquoi la correction y est indisponible. - --au-propre "texte" : la correction seule, pour vérifier le modèle.</p>
+      ]]></description>
+      <pubDate>Wed, 23 Sep 2026 17:15:07 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v1.0.0/PowerMac-1.0.0.zip"
+                 sparkle:edSignature="T6Gx/mk2IDGVH33wW/9IM3cUYO4W2gEX986K6DzbowdEO4hJJ+WxvwM3NwXD2iRzO1EZdT7N0e6feJGcCWrjCQ=="
+                 length="3643493"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
