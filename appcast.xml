@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 1.3.0</title>
+      <description><![CDATA[
+<h3>Home › Musique : le morceau en cours, pochette et commandes</h3>
+<p>- Musique et Spotify par AppleScript (MediaRemote est fermé aux apps tierces depuis macOS 15.4) : titre, artiste, album, progression, pochette (une fois par morceau), précédent / lecture / suivant. Page et widget Home. - Une app n'est interrogée que si elle est déjà ouverte (« tell application » la lancerait), et seulement page ou widget affichés, toutes les 2 s. - README à jour (Son, Visio, Musique, Étagère) ; description d'Automatisation élargie dans l'Info.plist.</p>
+      ]]></description>
+      <pubDate>Wed, 23 Sep 2026 19:23:48 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v1.3.0/PowerMac-1.3.0.zip"
+                 sparkle:edSignature="k0Z8pN0YNwTvweMHrKJ2AKLpMOukhESSxwlCt6AMCtVRew4sYHmScLbeZn+scDJSRYHZi99mZeb4Q+IitC8DAg=="
+                 length="3941606"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.2.0</title>
       <description><![CDATA[
 <h3>README : autorisation d'enregistrement de l'écran</h3>
