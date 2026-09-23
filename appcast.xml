@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 1.1.0</title>
+      <description><![CDATA[
+<h3>Home › Recherche (⌃⌥F) : un seul champ pour tout</h3>
+<p>- Cherche dans les pages de PowerMac, les apps (Applications, système, ~/Applications), les agents, les liens, les raccourcis perso, les notes du vault et les fichiers des dossiers suivis (par leur nom, jamais leur contenu), et le presse-papiers ; chaque source respecte les fonctions coupées. - Calcul direct (« 12,5 * 3 », parenthèses, %, × ÷) par un petit analyseur maison : NSExpression plante l'app sur une saisie malformée. Entrée copie le résultat. - Classement : début &gt; début de mot &gt; milieu &gt; lettres dans l'ordre (noms courts seulement, sinon toutes les longues notes remontaient). - ↑↓ pour choisir, ↩ pour ouvrir ; notes ouvertes dans Obsidian. - Index refait à l'ouverture de la page seulement, en arrière-plan.</p>
+      ]]></description>
+      <pubDate>Wed, 23 Sep 2026 18:01:10 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v1.1.0/PowerMac-1.1.0.zip"
+                 sparkle:edSignature="ZXljQT9pRszjVHH/Txo3XxoMCgJiDEfz9q9tQRQ8khiFafU0bO88JOnhL74iiLSjosp+ya3dSn3yl31Qg1DpCg=="
+                 length="3692328"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.0.0</title>
       <description><![CDATA[
 <h3>Rubrique Outils › Au Propre : la correction du texte dicté absorbée</h3>
