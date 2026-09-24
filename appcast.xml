@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 1.7.4</title>
+      <description><![CDATA[
+<h3>Parure : l'Atelier (création d'icônes de dossier) repris</h3>
+<p>Signalé par l'utilisateur : la création d'icônes de Parure manquait. - AtelierRendu repris tel quel (calques du dossier système recolorés, motif gravé ; méthode de FolderForge), couleurs renommées PaletteParure. - Troisième volet « Atelier » : aperçu en direct, teintes, couleur libre, dégradé, motif symbole / emoji / texte, couleur du motif ; « Ranger dans la bibliothèque » (PNG 1024², jamais d'écrasement), l'icône se choisit ensuite dans Dossiers. - Selftest : l'atelier dessine bien (lecture des calques système).</p>
+      ]]></description>
+      <pubDate>Thu, 24 Sep 2026 17:06:48 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.7.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v1.7.4/PowerMac-1.7.4.zip"
+                 sparkle:edSignature="t0Gmg/rjfzGY1sr7Wv9mpM7Z4RO+muV3vYKs9462j3b9kUYjGsV6JLieJqAYMcK0mIesrALIUYqLBX+/+1p5BQ=="
+                 length="5035824"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.7.3</title>
       <description><![CDATA[
 <h3>Parure : défilement, choix d'icône en grille, fonds par écran</h3>
