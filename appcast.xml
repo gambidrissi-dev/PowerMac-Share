@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 1.7.2</title>
+      <description><![CDATA[
+<h3>Parure : icônes des menus à leur taille, plus de page « zoomée »</h3>
+<p>Signalé par l'utilisateur : la page Parure apparaissait énormément zoomée. Dans l'étiquette d'un Menu, macOS affiche l'image à sa taille propre et ignore le .frame SwiftUI : les icônes de dossier de 1 024 px envahissaient l'île. Miniature.icone prépare une vignette dont la taille est donnée en points.</p>
+      ]]></description>
+      <pubDate>Thu, 24 Sep 2026 06:52:03 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v1.7.2/PowerMac-1.7.2.zip"
+                 sparkle:edSignature="1Ei28vRZWh75C4TNJQvA7Z4rzOvjcjnqVB55eKof/jScKIR/ZsqJpSGD8vQTLFeT8r9xc7LdzG2ICgT0Vp8oAA=="
+                 length="4946678"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.7.1</title>
       <description><![CDATA[
 <h3>Menu de la barre des menus : les rubriques, et les mises à jour en haut</h3>
