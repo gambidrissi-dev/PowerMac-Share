@@ -5,6 +5,22 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 1.7.3</title>
+      <description><![CDATA[
+<h3>Parure : défilement, choix d'icône en grille, fonds par écran</h3>
+<p>Signalé par l'utilisateur : impossible de changer de fond d'écran, tout n'était pas affiché, et il veut gérer séparément l'écran du Mac et les écrans externes.</p>
+<p>- Fonds : son Parure est en « un fond par écran » avec une image épinglée sur chaque écran ; l'épinglage passait avant l'image commune, un clic ne changeait donc rien. Un sélecteur en haut : Tous les écrans, Écran du Mac, chaque écran externe (avec la vignette de son fond actuel) ; un clic pose l'image sur l'écran choisi ; « Reprendre le fond commun ». - Toute la bibliothèque, tous les dossiers, toutes les règles : en défilant (coupés à 12, 6 et 5 avant). - Icônes de dossier : une grille de vignettes au lieu d'une liste de noms. - Le volet ouvert (Dossiers / Fonds) est retenu.</p>
+      ]]></description>
+      <pubDate>Thu, 24 Sep 2026 07:24:02 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v1.7.3/PowerMac-1.7.3.zip"
+                 sparkle:edSignature="21/z1vEvudY3GXq7x1LyR4IplC7PunJakCTc10vHrg98YEbuuWn4yJIVeP8eDWrcwkwTxxka8A7M+0cZqH4GCg=="
+                 length="4978390"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.7.2</title>
       <description><![CDATA[
 <h3>Parure : icônes des menus à leur taille, plus de page « zoomée »</h3>
