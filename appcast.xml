@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 1.10.0</title>
+      <description><![CDATA[
+<h3>Nouvelle clé publique Sparkle : l'ancienne clé privée est perdue</h3>
+      ]]></description>
+      <pubDate>Fri, 02 Oct 2026 22:55:38 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v1.10.0/PowerMac-1.10.0.zip"
+                 sparkle:edSignature="RsYl/IESk1mI2L0w0HoDuhs3P9pL/QuzFjMvo4Hq5NumllbanhCj5NnEGpKUcHXizpkTAMr+JWMJQHPmZ95aBg=="
+                 length="5331398"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.9.0</title>
       <description><![CDATA[
 <h3>IA-Crédits › Clés API : lister tes clés OpenRouter (dépense, limite), en créer, désactiver, supprimer — avec la clé de gestion</h3>
