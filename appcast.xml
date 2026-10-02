@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>PowerMac</title>
+    <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
+    <description>Mises à jour de PowerMac</description>
+    <item>
+      <title>Version 1.9.0</title>
+      <description><![CDATA[
+<h3>IA-Crédits › Clés API : lister tes clés OpenRouter (dépense, limite), en créer, désactiver, supprimer — avec la clé de gestion</h3>
+      ]]></description>
+      <pubDate>Thu, 01 Oct 2026 15:31:59 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v1.9.0/PowerMac-1.9.0.zip"
+                 sparkle:edSignature="uFwpEk7pdB6VOwh0LXN0DYteJNKsImz1J/eoO5p99zgwjdxn9q8rFVAtCGc3hUCHomNOUR/fQdr5JF80pHnuDg=="
+                 length="5241527"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
