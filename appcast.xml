@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.2.0</title>
+      <description><![CDATA[
+<h3>PowerMac 2.2.0 — Tes scripts dans l'encoche</h3>
+<p>N'importe quel script peut s'annoncer dans les ailes de l'encoche avec la commande <code>signal</code> (dans ~/Library/Application Support/PowerMac) : - signal rendu travaille "Image 42/120" 0.35 : sa progression dans l'aile ; - signal rendu fini, ou erreur : une coche ou une alerte, avec un son ; - PowerMac fermé, la commande ne fait rien et ne bloque jamais ton script.</p>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 18:28:38 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.2.0/PowerMac-2.2.0.zip"
+                 sparkle:edSignature="IHjn1uvfH+oDwkhbixFxwaGqCG4fTRYhVxsFV2gix5z43fvtOipJJvp8bFmdGzojD23UnfgIfHWfCejr4IlAAw=="
+                 length="5659200"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.1.0</title>
       <description><![CDATA[
 <h3>PowerMac 2.1.0 — Cartes de Claude Code et mascotte</h3>
