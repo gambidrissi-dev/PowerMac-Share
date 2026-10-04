@@ -5,6 +5,23 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.1.0</title>
+      <description><![CDATA[
+<h3>PowerMac 2.1.0 — Cartes de Claude Code et mascotte</h3>
+<p>Cartes de Claude Code (Réglages › Agents, à activer) : - les demandes de permission arrivent dans une carte sous l'encoche : Autoriser, Toujours, Refuser ; - les questions à choix de Claude Code deviennent de vrais boutons, un ou plusieurs choix ; - marche avec Claude Code dans n'importe quel terminal ; « Terminal » lui rend la question, et elle y retourne seule après 110 s ; - PowerMac fermé, rien ne change.</p>
+<p>La mascotte : - des sons (ceux de macOS) quand un agent attend, finit ou s'arrête, et quand une carte arrive ; - une garde-robe : clic droit sur la mascotte de l'encoche, ou Réglages › Agents ; une tenue de saison par défaut ; - elle peut sortir sur le bureau : elle se déplace à la souris, rentre dans l'encoche quand un agent t'appelle, et, lâchée avec ⌥ sur une fenêtre, en met la capture sur l'étagère.</p>
+<p>Achats : les images des produits.</p>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 16:28:34 +0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.1.0/PowerMac-2.1.0.zip"
+                 sparkle:edSignature="DDOyprfu7AZzk0XtbvxNiJfPGTn6SVzc0NuzLBUXUF67y5giar8Sphr/QITX4gyWaiSOGnQfUN8VVdtphhpoCQ=="
+                 length="5648194"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.0.0</title>
       <description><![CDATA[
 <h3>PowerMac 2.0.0 — Achats</h3>
