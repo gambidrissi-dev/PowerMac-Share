@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.0.0</title>
+      <description><![CDATA[
+<h3>PowerMac 2.0.0 — Achats</h3>
+<p>Nouvelle page Capturer › Achats, qui remplace KeepWish : - tes envies et ce que tu possèdes au même endroit ; « Acheté » fait passer une envie dans « J'ai » ; - des projets (Studio, Atelier…) : choisir un projet filtre la liste et affiche son budget, et ce que tu ajoutes y va directement ; - clic droit : projet, priorité, modifier, ouvrir le lien ; double-clic pour modifier ; - tout est dans iCloud Drive (PowerMac/achats.json), synchronisé entre tes Mac ; - au premier lancement, ta base KeepWish est reprise une fois, sans y toucher.</p>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 13:14:42 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.0.0/PowerMac-2.0.0.zip"
+                 sparkle:edSignature="wqXEuJ3lUpwK66Xk2y/8keGKczVdKhVGjJPgH4f9H7KeR3wasIyFT7yJQ74i45jmzoq09ePdfZeXbBTv840cAg=="
+                 length="5512015"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.11.0</title>
       <description><![CDATA[
 <h3>Édition : Le Quotidien (météo, politique, entreprendre, tour du monde) et Cobalt Mag, la gazette du collectif</h3>
