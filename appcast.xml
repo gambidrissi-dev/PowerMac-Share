@@ -5,6 +5,25 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.5.0</title>
+      <description><![CDATA[
+<h3>Dépenses, par usage</h3>
+<ul>
+<li><b>Discussions</b> : tes conversations dans Halo, Jev et la voix.</li>
+<li><b>Terminaux</b> : le reste de ta clé OpenRouter (terminaux et autres apps sur la même clé).</li>
+<li><b>Loops &amp; Schedule</b> : 0 $, sur ton abonnement Claude, avec le nombre d'exécutions du mois.</li>
+</ul>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 22:44:53 +0000</pubDate>
+      <sparkle:version>60</sparkle:version>
+      <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.5.0/PowerMac-2.5.0.zip"
+                 sparkle:edSignature="6HV9PzrKmW2bpY49gTQeG/1NMbSJ4f1dEqQPuA+w9TWid2FaxddOCQdMcFppzJRsos75vztl1PvSVSAJUy2FDA=="
+                 length="5746260"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.4.0</title>
       <description><![CDATA[
 <h3>Réglages rangés, autorisations regroupées</h3>
