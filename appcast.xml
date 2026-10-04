@@ -5,6 +5,24 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.6.0</title>
+      <description><![CDATA[
+<h3>Dépenses : tokens et abonnement Claude</h3>
+<ul>
+<li>Les tokens à côté des montants OpenRouter.</li>
+<li>Nouveau : l'abonnement Claude de la semaine par usage (Terminaux, Discussions, Loops &amp; Schedule), en part, tokens et valeur au tarif de l'API.</li>
+</ul>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 23:17:01 +0000</pubDate>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>2.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.6.0/PowerMac-2.6.0.zip"
+                 sparkle:edSignature="rBoduCqSWVDUuP0kTUvtMTK53TR5H9CutBgeqvp9TQFjT7CvzyyXyIs822JWop2NVSF9Nbc/zCHSADGLhQ/6DQ=="
+                 length="5788034"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.5.0</title>
       <description><![CDATA[
 <h3>Dépenses, par usage</h3>
