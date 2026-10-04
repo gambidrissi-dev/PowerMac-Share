@@ -5,6 +5,24 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.3.0</title>
+      <description><![CDATA[
+<h3>IA-Crédits › Dépenses</h3>
+<ul>
+<li>Le <b>vrai total d'OpenRouter</b> : aujourd'hui, cette semaine, ce mois, depuis toujours ; la part de Halo et le reste.</li>
+<li>Avec la clé de gestion : crédit restant et 30 derniers jours par modèle.</li>
+</ul>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 22:17:39 +0000</pubDate>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.3.0/PowerMac-2.3.0.zip"
+                 sparkle:edSignature="Nm21jLmj7S048TlERSAB1c4M1t9feBwFzrR+vDsGxTUkyCxaygizi6OlPfoYcHncgoRltmyGKLw5je09UDC5Bg=="
+                 length="5707263"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.2.0</title>
       <description><![CDATA[
 <h3>PowerMac 2.2.0 — Tes scripts dans l'encoche</h3>
