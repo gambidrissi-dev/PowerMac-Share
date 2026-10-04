@@ -5,6 +5,25 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.4.0</title>
+      <description><![CDATA[
+<h3>Réglages rangés, autorisations regroupées</h3>
+<ul>
+<li>Cinq catégories : <b>Autorisations</b>, Général, Île et fonctions, Fichiers, Services.</li>
+<li><b>Autorisations</b> : les 10 autorisations de PowerMac, leur état en direct, un bouton chacune et <b>« Tout demander »</b>.</li>
+<li>Parure : choisis le dossier de ta bibliothèque d'icônes et de fonds d'écran.</li>
+</ul>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 22:25:08 +0000</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.4.0/PowerMac-2.4.0.zip"
+                 sparkle:edSignature="4VCIJO7PwSDaH3PiU+68VB0hK7iPfDYzlHcfEcc5V1e8M8g48mLnX9CT4pHb20/D7SjPoOLckYwjPexAtwR3Dw=="
+                 length="5743574"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.3.0</title>
       <description><![CDATA[
 <h3>IA-Crédits › Dépenses</h3>
