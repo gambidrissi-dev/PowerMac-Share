@@ -5,6 +5,23 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 1.11.0</title>
+      <description><![CDATA[
+<h3>Édition : Le Quotidien (météo, politique, entreprendre, tour du monde) et Cobalt Mag, la gazette du collectif</h3>
+<p>Le Quotidien — un journal du matin généraliste en tête de L'Édition : la date, la météo d'ici et de demain (position du Mac, Open-Meteo), le lever et le coucher du soleil, puis trois rubriques fixes rédigées depuis 15 flux : Politique (France et Europe), Entreprendre (startups, démarches et droit des micro-entreprises et associations, artisanat et TPE), Autour du globe.</p>
+<p>Cobalt Mag — la gazette hebdo du collectif : Cobalt, Cobalt Médias, L'Atelier, Bleu de Cobalt, Patrimoine, « Qui fait quoi » et « À venir ». La matière vient des fiches du vault modifiées dans la semaine (hors admin, IT, inbox, archives), d'une boîte « À annoncer » (drops, sorties, arrivées), de l'agenda (sans la routine) et de Notion (clé d'intégration). Le numéro s'exporte en PDF A4 et en HTML dans Documents › Cobalt Mag, ou part par Mail, PDF joint.</p>
+<p>Corrigé : tant que les axes n'avaient jamais été modifiés, l'édition du jour se perdait à chaque relance de l'app. Chaque source a désormais sa part : les flux bavards ne prennent plus toute la place.</p>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 12:55:49 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v1.11.0/PowerMac-1.11.0.zip"
+                 sparkle:edSignature="tj/RaJBZfvLpRpiLPXUkMEvSp9SUy1BywYpL0TA1l6qHjZqK7ybkjwRl1HQgKKQXF40Summ5XK0+ZUCZOXTTBA=="
+                 length="5426877"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.10.0</title>
       <description><![CDATA[
 <h3>Nouvelle clé publique Sparkle : l'ancienne clé privée est perdue</h3>
