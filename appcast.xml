@@ -5,6 +5,24 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.8.0</title>
+      <description><![CDATA[
+<h3>Édition : mise en page « Journal », sources revues, Ta journée, et le Mag lit tes dépôts</h3>
+<p>Mise en page — la une flanquée d'« À lire aussi », les rubriques côte à côte avec petites vignettes, les brèves numérotées, le temps de lecture. Un article ouvert est grisé ensuite ; clic droit : à lire plus tard (dans Liens), copier le lien, retirer de l'édition. Dans l'île, Le Quotidien tient en un résumé : la date, la météo, ta journée, les cinq titres, et l'édition complète en fenêtre.</p>
+<p>Le Quotidien — tes rendez-vous du jour sous la météo.</p>
+<p>Sources — ArchDaily en français, Archistorm, Archicree, Dezeen Intérieurs, AD France, Next, Les Numériques IA, Le Monde Pixels, JDN Économie ; The Architect's Newspaper retiré. Appliqué une fois à tes axes, sans toucher aux sources ajoutées à la main. Une source lente (Service Public, Ordre des architectes…) donne ses derniers articles de la semaine pas encore passés : Entreprendre n'est plus vide le lundi. Chaque source est plafonnée à 8.</p>
+<p>Cobalt Mag — rubrique « Côté outils » : ce qui a été livré dans les dépôts de ~/Documents/GITHUB, raconté pour qui ne code pas. Un article peut être retiré du numéro avant l'export.</p>
+      ]]></description>
+      <pubDate>Mon, 05 Oct 2026 11:25:12 +0000</pubDate>
+      <sparkle:version>63</sparkle:version>
+      <sparkle:shortVersionString>2.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.8.0/PowerMac-2.8.0.zip"
+                 sparkle:edSignature="7n3VSpRyEzM6ZO6U+EuDQ0x4TSO+6x21EDuhaEdbVPP7PS1yhU3FU1Ud9E2DslJNgxqmuG6sjjlb8RNKC3s3DA=="
+                 length="5872481"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.7.0</title>
       <description><![CDATA[
 <h3>Budget, reprise et Quotidien</h3>
