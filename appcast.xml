@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.9.0</title>
+      <description><![CDATA[
+<h3>Place (carte du disque, caches de développement) et Entretien (démarrage launchd, DNS, Launch Services, Spotlight, Time Machine) dans Mac ; « Réinitialiser » dans Apps — d'après Mac Sai</h3>
+      ]]></description>
+      <pubDate>Mon, 05 Oct 2026 19:05:54 +0000</pubDate>
+      <sparkle:version>64</sparkle:version>
+      <sparkle:shortVersionString>2.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.9.0/PowerMac-2.9.0.zip"
+                 sparkle:edSignature="KEMATluEIoHKbruk43l7ooBMsUtvjfqnwd/qtA95KFIeckuXdiST1h1uC65WOzDpIXSoWBf/tOq8c27f7M2oDQ=="
+                 length="6013187"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.8.0</title>
       <description><![CDATA[
 <h3>Édition : mise en page « Journal », sources revues, Ta journée, et le Mag lit tes dépôts</h3>
