@@ -5,6 +5,26 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.7.0</title>
+      <description><![CDATA[
+<h3>Budget, reprise et Quotidien</h3>
+<ul>
+<li><b>Budget OpenRouter du mois</b> : une alerte quand il est atteint (Réglages › IA-Crédits).</li>
+<li><b>Terminaux exacts</b> dans Dépenses, quand Halo a une clé qui leur est réservée.</li>
+<li><b>Reprendre une conversation Claude Code</b> : bouton ⟲ dans la page Agents, reprise dans un terminal de Halo.</li>
+<li><b>Le Quotidien</b> affiche ce qu'il te reste sur Claude et OpenRouter, sous la météo.</li>
+</ul>
+      ]]></description>
+      <pubDate>Mon, 05 Oct 2026 06:38:16 +0000</pubDate>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>2.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.7.0/PowerMac-2.7.0.zip"
+                 sparkle:edSignature="BrGTx10yjS8tFLHIDspcW+axVRbnPeneZhj75CB4fqsukvRmjD9C9uxwurZZf+gcjhiNWRrSZo0gj6g5FvjVBw=="
+                 length="5820670"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.6.0</title>
       <description><![CDATA[
 <h3>Dépenses : tokens et abonnement Claude</h3>
