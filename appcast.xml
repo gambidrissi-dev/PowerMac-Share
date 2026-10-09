@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.9.1</title>
+      <description><![CDATA[
+<h3>SMART : trouve smartctl dans bin/ (smartmontools 7.5) en plus de sbin/</h3>
+      ]]></description>
+      <pubDate>Fri, 09 Oct 2026 22:59:16 +0000</pubDate>
+      <sparkle:version>65</sparkle:version>
+      <sparkle:shortVersionString>2.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.9.1/PowerMac-2.9.1.zip"
+                 sparkle:edSignature="u9fDhDZr37UEys9WR3XClIroumAEtLrhuGLMQBAE7mi2Y4QNc6dGkxsXtZVlUrZqwgeidKE/3nCmwAXi4pA/Cw=="
+                 length="6012903"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.9.0</title>
       <description><![CDATA[
 <h3>Place (carte du disque, caches de développement) et Entretien (démarrage launchd, DNS, Launch Services, Spotlight, Time Machine) dans Mac ; « Réinitialiser » dans Apps — d'après Mac Sai</h3>
