@@ -5,6 +5,25 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.10.0</title>
+      <description><![CDATA[
+<h3>Achats : projets, fiche, budget, vignettes et suivi des prix</h3>
+<p>Projets — « + Projet » crée un projet (Vox, Studio…) avant son premier achat, avec un plafond si tu veux. Clic droit pour le renommer (ses achats suivent) ou le supprimer (les achats restent, sans projet).</p>
+<p>Budget — ce qu'il reste à acheter et ce qui est dépensé, et la jauge du plafond quand le projet en a un. Chaque projet affiche son montant restant.</p>
+<p>Fiche — un clic ouvre l'achat sur toute la page : image en grand, champs, note, priorité ou date d'achat, historique des prix.</p>
+<p>Affichage — liste ou vignettes, tri par priorité, date ou prix.</p>
+<p>Suivi des prix — le prix des envies est relevé sur leur page une fois par jour, quand Achats est ouvert ; une baisse s'affiche en vert, une hausse en rouge.</p>
+      ]]></description>
+      <pubDate>Wed, 14 Oct 2026 18:24:04 +0000</pubDate>
+      <sparkle:version>66</sparkle:version>
+      <sparkle:shortVersionString>2.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.10.0/PowerMac-2.10.0.zip"
+                 sparkle:edSignature="GbYsbIJnAquYVfc54eNfWjPSjS61R6kYzWbjVtMWLtDO+XxSpI69tz2TJve0kPpYy/euw0vqqP2j6uJhrblNAw=="
+                 length="6108925"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.9.1</title>
       <description><![CDATA[
 <h3>SMART : trouve smartctl dans bin/ (smartmontools 7.5) en plus de sbin/</h3>
