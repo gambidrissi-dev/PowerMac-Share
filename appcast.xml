@@ -5,6 +5,24 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.12.0</title>
+      <description><![CDATA[
+<h3>PowerMac 2.12.0 : les agents, ce sont tes sessions Claude Code, partout</h3>
+<p>La page Agents ne dépend plus de Halo. Chaque session Claude Code, dans n'importe quel terminal (Terminal, iTerm, Ghostty, Halo…), prévient PowerMac par ses hooks quand elle commence, travaille, attend ta réponse, finit ou se ferme. Les mascottes, les ailes de l'encoche, les sons et « garder le Mac éveillé tant qu'un agent travaille » suivent ces sessions.</p>
+<p>Le détail d'une session montre ta dernière demande et le dernier message de Claude ; « Ouvrir » ramène son terminal. « Nouvel agent » et « Reprendre une conversation » s'ouvrent dans ton terminal par défaut. Une carte (permission, question) fait passer sa session en « attend ».</p>
+<p>Si tu avais branché les cartes, les nouveaux hooks s'ajoutent tout seuls au lancement (une copie de ~/.claude/settings.json est gardée à côté).</p>
+<p>Retiré avec Halo : l'écran du terminal, la frappe et le dépôt de fichiers sur un agent, la pastille lue à l'écran (les cartes la remplacent), et la dépense de Halo dans IA-Crédits.</p>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 13:10:11 +0000</pubDate>
+      <sparkle:version>68</sparkle:version>
+      <sparkle:shortVersionString>2.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.12.0/PowerMac-2.12.0.zip"
+                 sparkle:edSignature="5RSDfYqKLqUxkhrHt1IjmyZ0qcR7NiRBNbBPBOmH4fwb1HIDQZ/1xozzvPcoExhSCqzCkY0PiRMS44BRB/Z3Bg=="
+                 length="5231931"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.11.0</title>
       <description><![CDATA[
 <h3>PowerMac 2.11.0 : plus léger, certaines pages deviennent des apps</h3>
