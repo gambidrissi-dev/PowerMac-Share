@@ -5,6 +5,23 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.11.0</title>
+      <description><![CDATA[
+<h3>PowerMac 2.11.0 : plus léger, certaines pages deviennent des apps</h3>
+<p>Pour que PowerMac puisse devenir un produit, ce qui est propre à Cobalt ou impossible sur le Mac App Store sort dans des apps à part, déjà publiées :</p>
+<p>Vidéos → Bocal. Parure → Parure (avec son Atelier). Entretien et Apps → Entretien. L'Édition, Le Quotidien et Cobalt Mag → Édition, qui reprend tes axes, tes éditions et tes clés.</p>
+<p>Une app ou un .dmg glissé sur l'île va maintenant sur l'étagère (ouvre-le avec Entretien pour l'installer). Le widget « Mises à jour » quitte Home.</p>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 12:41:54 +0000</pubDate>
+      <sparkle:version>67</sparkle:version>
+      <sparkle:shortVersionString>2.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.11.0/PowerMac-2.11.0.zip"
+                 sparkle:edSignature="Tb0+z1OlqRvNX99HG9M+oglWmfc0Xb6rzk9JsZJsADFFw3tObnn+Q88UMdoqP+7jzE1inrxB0Feh0nm3bpWoBg=="
+                 length="5312569"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.10.0</title>
       <description><![CDATA[
 <h3>Achats : projets, fiche, budget, vignettes et suivi des prix</h3>
