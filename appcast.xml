@@ -5,6 +5,22 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.13.0</title>
+      <description><![CDATA[
+<h3>Capturer › Post-it : l'app PostIt entre dans PowerMac</h3>
+<p>Moteur de PostIt repris tel quel (une fenêtre par note, couleurs Cobalt, mise en forme, cases à cocher, pôles, envoi vers Obsidian, sauvegarde du jour) ; sa barre de menus devient la page Post-it (nouvelle note, pôle affiché, notes fermées) et ⌘⌥N passe par HotKeys. Les raccourcis de la note (⌘C, ⌘B…) passent par un menu jamais affiché, PowerMac n'ayant pas de barre de menus. Mêmes notes que l'app (Application Support/PostIt/notes.json). La capture rapide n'est pas reprise : ⌃⌥Espace ouvre déjà le Vault.</p>
+<p>README : PowerMac ne part plus sur le Store, Vidéos et Post-it documentés.</p>
+      ]]></description>
+      <pubDate>Tue, 03 Nov 2026 23:53:35 +0000</pubDate>
+      <sparkle:version>69</sparkle:version>
+      <sparkle:shortVersionString>2.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.13.0/PowerMac-2.13.0.zip"
+                 sparkle:edSignature="7yEX7Mntgoh8zDQWYuil/7Zm0uN0vZpzUMhmipYhWpD8W1w8NnJnJI6Z7DJC9PAOGtVYTHYW4lK/aWrqN38wDQ=="
+                 length="5360188"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.12.0</title>
       <description><![CDATA[
 <h3>PowerMac 2.12.0 : les agents, ce sont tes sessions Claude Code, partout</h3>
