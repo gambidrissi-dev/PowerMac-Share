@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.16.0</title>
+      <description><![CDATA[
+<h3>Vie : lire un mois pendant l'affichage ne publie plus rien ; « Rattacher… » propose un nouveau projet</h3>
+      ]]></description>
+      <pubDate>Wed, 04 Nov 2026 23:44:51 +0000</pubDate>
+      <sparkle:version>73</sparkle:version>
+      <sparkle:shortVersionString>2.16.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.16.0/PowerMac-2.16.0.zip"
+                 sparkle:edSignature="tYn2R0WudiEZe5JPbyNrS4fQy5XlQ1oYFpd32RrdXfzSLMp24sKTT7R6G7hBfqB/3KHW21KW7xAjr0ENtsLVAg=="
+                 length="6065258"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.15.1</title>
       <description><![CDATA[
 <h3>Vie : brouillon du PRD (suivi de la journée, habitudes, argent, temps de travail, bilans)</h3>
