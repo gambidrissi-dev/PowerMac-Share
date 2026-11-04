@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.15.1</title>
+      <description><![CDATA[
+<h3>Vie : brouillon du PRD (suivi de la journée, habitudes, argent, temps de travail, bilans)</h3>
+      ]]></description>
+      <pubDate>Wed, 04 Nov 2026 23:06:26 +0000</pubDate>
+      <sparkle:version>72</sparkle:version>
+      <sparkle:shortVersionString>2.15.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.15.1/PowerMac-2.15.1.zip"
+                 sparkle:edSignature="jWm90U/XGcCUD5RTPSWi/9nMwDl4cZ2yLcJKAwUWJMjH3cCVRs1BfNedaOGog4HeYVWsOqh/dXa7HlvbDdYlAA=="
+                 length="5737582"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.15.0</title>
       <description><![CDATA[
 <h3>Gambi_OS : le Dock de MiniDock entre (Mac › Dock › Remplacer le Dock d'Apple) et l'app change de nom affiché</h3>
