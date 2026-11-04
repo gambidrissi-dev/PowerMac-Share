@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.17.0</title>
+      <description><![CDATA[
+<h3>Vie : schéma, une seule ligne pour l'ancien champ taches</h3>
+      ]]></description>
+      <pubDate>Wed, 04 Nov 2026 23:59:42 +0000</pubDate>
+      <sparkle:version>74</sparkle:version>
+      <sparkle:shortVersionString>2.17.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.17.0/PowerMac-2.17.0.zip"
+                 sparkle:edSignature="O4l3TOXfjCB7Hu5kjARjhF4UTcdU6+qvdkA0CzTrsRYQq3BmfPt39hRtpO/WzymvkIgNYgU4YWSPM2AwN2DGDQ=="
+                 length="6125676"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.16.0</title>
       <description><![CDATA[
 <h3>Vie : lire un mois pendant l'affichage ne publie plus rien ; « Rattacher… » propose un nouveau projet</h3>
