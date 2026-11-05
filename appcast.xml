@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.17.1</title>
+      <description><![CDATA[
+<h3>Vie passe en première rubrique de l'île (l'île s'ouvre toujours sur Home par défaut)</h3>
+      ]]></description>
+      <pubDate>Thu, 05 Nov 2026 00:06:05 +0000</pubDate>
+      <sparkle:version>75</sparkle:version>
+      <sparkle:shortVersionString>2.17.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.17.1/PowerMac-2.17.1.zip"
+                 sparkle:edSignature="1KW0gt3vcuxqbLfZ/LN93omDjbvT+pPYM9918gjX/5vhvV/UqOkgE0yRdTP2usLJNSgCOz2YJcWFxgIAGuSaAA=="
+                 length="6125634"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.17.0</title>
       <description><![CDATA[
 <h3>Vie : schéma, une seule ligne pour l'ancien champ taches</h3>
