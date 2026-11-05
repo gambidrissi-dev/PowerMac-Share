@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.18.4</title>
+      <description><![CDATA[
+<h3>Widgets : les lignes du petit widget Habitudes sont des boutons (elles ouvraient l'île)</h3>
+      ]]></description>
+      <pubDate>Thu, 05 Nov 2026 01:17:44 +0000</pubDate>
+      <sparkle:version>80</sparkle:version>
+      <sparkle:shortVersionString>2.18.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.18.4/PowerMac-2.18.4.zip"
+                 sparkle:edSignature="xEucYUQfQ1q0/5U4gP9z54HhXDAXxRLNJiCM4bY1nf2O6JYRxSA0O7qe2CL/hogBBZD6V8sIIAlyU5ag4YBYCw=="
+                 length="6348162"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.18.3</title>
       <description><![CDATA[
 <h3>Widgets : vraies cases à cocher (intentions d'app), sans ouvrir l'île</h3>
