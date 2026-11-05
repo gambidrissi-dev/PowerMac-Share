@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.19.0</title>
+      <description><![CDATA[
+<h3>Dock : modules à droite des icônes (Musique, Rendez-vous, Vie, Agents, Batterie), réglables dans Mac › Dock</h3>
+      ]]></description>
+      <pubDate>Thu, 05 Nov 2026 22:33:30 +0000</pubDate>
+      <sparkle:version>81</sparkle:version>
+      <sparkle:shortVersionString>2.19.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.19.0/PowerMac-2.19.0.zip"
+                 sparkle:edSignature="1axoTcV7Ic272LhDCOswA9y4D8Mg7I8iHE8e3sE+1N7bV2rM9MyvGMCXXb60vFzGkCyfRvRDzSpPSOHByytODg=="
+                 length="6427258"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.18.4</title>
       <description><![CDATA[
 <h3>Widgets : les lignes du petit widget Habitudes sont des boutons (elles ouvraient l'île)</h3>
