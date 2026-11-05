@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.18.2</title>
+      <description><![CDATA[
+<h3>Widgets : point d'entrée _NSExtensionMain (l'extension plantait au démarrage en 2.18.0/2.18.1)</h3>
+      ]]></description>
+      <pubDate>Thu, 05 Nov 2026 00:56:13 +0000</pubDate>
+      <sparkle:version>78</sparkle:version>
+      <sparkle:shortVersionString>2.18.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.18.2/PowerMac-2.18.2.zip"
+                 sparkle:edSignature="/MgNrq2o2byl+c8g+LnM5dzQsj0z1u6ijUfLS/cDBSxTD91HpwKRLz5MIwm4cc3Q8BF8Y29cibrYHMkaFSkFCw=="
+                 length="6326857"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.18.1</title>
       <description><![CDATA[
 <h3>Réglages : comment poser les widgets</h3>
