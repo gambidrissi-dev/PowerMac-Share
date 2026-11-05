@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.18.1</title>
+      <description><![CDATA[
+<h3>Réglages : comment poser les widgets</h3>
+      ]]></description>
+      <pubDate>Thu, 05 Nov 2026 00:50:11 +0000</pubDate>
+      <sparkle:version>77</sparkle:version>
+      <sparkle:shortVersionString>2.18.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.18.1/PowerMac-2.18.1.zip"
+                 sparkle:edSignature="VzQd2lRbxEodF2qv+CfXOkKKn042IyPJf3ZqFkoI8NK0gR/tyBHeNGLzznHj4DCTBxVjOAJc18jsnQftYITHAw=="
+                 length="6326838"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.18.0</title>
       <description><![CDATA[
 <h3>Widgets : Aujourd'hui, Habitudes, Temps par projet, Prochain rendez-vous, Agents (en verre)</h3>
