@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.18.3</title>
+      <description><![CDATA[
+<h3>Widgets : vraies cases à cocher (intentions d'app), sans ouvrir l'île</h3>
+<p>L'intention dépose une commande dans le conteneur du groupe et prévient Gambi_OS, qui coche dans Rappels ou Vie. make-app.sh extrait les métadonnées des intentions (valeurs constantes de swiftc + appintentsmetadataprocessor).</p>
+      ]]></description>
+      <pubDate>Thu, 05 Nov 2026 01:07:09 +0000</pubDate>
+      <sparkle:version>79</sparkle:version>
+      <sparkle:shortVersionString>2.18.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.18.3/PowerMac-2.18.3.zip"
+                 sparkle:edSignature="cwqbkowhBGbL0jSyX6T92Y0m09jw22jTllZGxMMqjSqMD5pcXDLDWZ4iCdaKwfWyjDey8SuRDDEdcLHw1u25Dw=="
+                 length="6345074"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.18.2</title>
       <description><![CDATA[
 <h3>Widgets : point d'entrée _NSExtensionMain (l'extension plantait au démarrage en 2.18.0/2.18.1)</h3>
