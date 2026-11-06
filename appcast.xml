@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.19.1</title>
+      <description><![CDATA[
+<h3>Agenda et Messages rangés dans Vie : plus de rubrique Agenda à part</h3>
+      ]]></description>
+      <pubDate>Fri, 06 Nov 2026 12:25:22 +0000</pubDate>
+      <sparkle:version>82</sparkle:version>
+      <sparkle:shortVersionString>2.19.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.19.1/PowerMac-2.19.1.zip"
+                 sparkle:edSignature="nmKkdjUOt/ws8zjwNy60inai/9zj37XAB5eGxMMNHZb/gyft0K6QXFAEeWq9yFIZHK9I+RiId3G3hCpm5DMjDQ=="
+                 length="6427556"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.19.0</title>
       <description><![CDATA[
 <h3>Dock : modules à droite des icônes (Musique, Rendez-vous, Vie, Agents, Batterie), réglables dans Mac › Dock</h3>
