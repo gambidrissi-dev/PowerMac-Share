@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/PowerMac-Share</link>
     <description>Mises à jour de PowerMac</description>
     <item>
+      <title>Version 2.20.0</title>
+      <description><![CDATA[
+<h3>Onglets à ranger : ordre, rubrique, nom et icône se changent dans la barre (glisser, double-clic, clic droit) et dans Réglages › Onglets et fonctions</h3>
+      ]]></description>
+      <pubDate>Fri, 06 Nov 2026 17:12:35 +0000</pubDate>
+      <sparkle:version>83</sparkle:version>
+      <sparkle:shortVersionString>2.20.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerMac-Share/releases/download/v2.20.0/PowerMac-2.20.0.zip"
+                 sparkle:edSignature="lavoj3CinWP+2H0EjOEKbWbUjqg9/gncXd56En08mCMNvF256ZD+UBFrKjxYJaSAh2b0MT8KQSA3CmC/rSd+Dg=="
+                 length="6550948"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.19.1</title>
       <description><![CDATA[
 <h3>Agenda et Messages rangés dans Vie : plus de rubrique Agenda à part</h3>
